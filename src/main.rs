@@ -1,10 +1,11 @@
-mod functions;
+//mod functions;
 //mod loops;
 //mod conditionals;
 //mod strings;
 //mod types;
 //mod variables;
 //mod print;
+mod pointers;
 
 fn main() {
     //print::run();
@@ -13,5 +14,6 @@ fn main() {
     //strings::run();
     //conditionals::run();
     //loops::run();
-    functions::run();
+    //functions::run();
+    pointers::run();
 }
