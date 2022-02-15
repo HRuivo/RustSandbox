@@ -1,4 +1,5 @@
-mod loops;
+mod functions;
+//mod loops;
 //mod conditionals;
 //mod strings;
 //mod types;
@@ -11,5 +12,6 @@ fn main() {
     //types::run();
     //strings::run();
     //conditionals::run();
-    loops::run();
+    //loops::run();
+    functions::run();
 }
